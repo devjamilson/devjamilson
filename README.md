@@ -1,6 +1,6 @@
 ### Olá, Seja Bem Vindo(a), eu me chamo Jamilson Ferreira 🤝
 
-<div flex-direction="row">
+<div display="flex" flex-direction="row" aling-item="space-betwen">
   <a href="https://github.com/devjamilson">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devjamilson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjamilson&layout=compact&langs_count=7&theme=dark"/>
