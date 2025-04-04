@@ -1,4 +1,4 @@
-### Olá, Seja Bem Vindo(a), eu me chamo Jamilson Ferreira, e sou Engenheiro de Dados 🤝
+### Olá, Seja Bem Vindo(a), eu me chamo Jamilson Ferreira, e sou Analista de Dados 🤝
 
 <div display="flex">
   <a href="https://github.com/devjamilson">
